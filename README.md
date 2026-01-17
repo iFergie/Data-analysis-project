@@ -1,2 +1,2 @@
 # Data-analysis-project
-Portfolio project
+Main repository for portfolio project
